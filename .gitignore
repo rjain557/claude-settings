@@ -1,0 +1,31 @@
+# Sensitive files
+.credentials.json
+
+# Runtime / ephemeral data
+history.jsonl
+stats-cache.json
+backups/
+cache/
+debug/
+file-history/
+ide/
+paste-cache/
+projects/
+session-env/
+shell-snapshots/
+statsig/
+tasks/
+telemetry/
+todos/
+plans/
+
+# Agent runtime cache
+agents/cache/
+agents/install-counts-cache.json
+
+# Plugin instances (installed session artifacts)
+plugins/federated-*.md
+plugins/melodic-*.md
+plugins/misty-*.md
+plugins/polymorphic-*.md
+plugins/*.md

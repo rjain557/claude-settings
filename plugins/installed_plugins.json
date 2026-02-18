@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "plugins": {
+    "ralph-skills@ralph-marketplace": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\rjain\\.claude\\plugins\\cache\\ralph-marketplace\\ralph-skills\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-02-07T00:46:35.961Z",
+        "lastUpdated": "2026-02-07T00:46:35.961Z",
+        "gitCommitSha": "6c53cb0b831ebe8739c6a003e22af14902d8b0b5"
+      }
+    ],
+    "frontend-design@claude-code-plugins": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\rjain\\.claude\\plugins\\cache\\claude-code-plugins\\frontend-design\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-02-07T01:11:17.892Z",
+        "lastUpdated": "2026-02-07T01:11:17.892Z",
+        "gitCommitSha": "2bc62d1456e3b3084bb8c7971a8b111ebe5f505d"
+      }
+    ]
+  }
+}

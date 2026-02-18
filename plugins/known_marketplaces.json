@@ -1,0 +1,26 @@
+{
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "C:\\Users\\rjain\\.claude\\plugins\\marketplaces\\claude-plugins-official",
+    "lastUpdated": "2026-02-14T02:57:49.665Z"
+  },
+  "ralph-marketplace": {
+    "source": {
+      "source": "git",
+      "url": "https://github.com/snarktank/ralph.git"
+    },
+    "installLocation": "C:\\Users\\rjain\\.claude\\plugins\\marketplaces\\ralph-marketplace",
+    "lastUpdated": "2026-02-07T00:46:12.973Z"
+  },
+  "claude-code-plugins": {
+    "source": {
+      "source": "git",
+      "url": "https://github.com/anthropics/claude-code.git"
+    },
+    "installLocation": "C:\\Users\\rjain\\.claude\\plugins\\marketplaces\\claude-code-plugins",
+    "lastUpdated": "2026-02-18T23:34:19.191Z"
+  }
+}
